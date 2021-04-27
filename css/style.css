@@ -1,0 +1,33 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+    font-family: sans-serif;
+}
+
+.body {
+    background-color: #d1cfcf;
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px 30px;
+}
+
+.body__header {
+    color: #ffd700;
+    background-color: #000000;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+}
+
+.main__boatPoolPicture {
+    width: 100%;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 5px -5px 30px -8px #2B2B27;
+    margin: 50px 30px;
+    padding: auto;
+    max-width: 400px;
+}

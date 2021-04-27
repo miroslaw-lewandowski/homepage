@@ -1,0 +1,26 @@
+.section {
+    padding: 25px 0;
+}
+
+.section__headers {
+    color: gold;
+    background-color: black;
+}
+
+.section__paragraph {
+    line-height: 1.5;
+}
+
+.section__nameSurname {
+    color: #dc143c;
+}
+
+.section__skiPicture {
+    width: 250px;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 5px -5px 30px -8px #2B2B27;
+    margin: auto;
+    max-width: 400px;
+    display: block;
+}

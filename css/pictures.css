@@ -1,0 +1,20 @@
+.pictures__boatPool {
+    width: 100%;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 5px -5px 30px -8px #2B2B27;
+    margin: 50px 30px;
+    padding: auto;
+    max-width: 400px;
+}
+
+
+.pictures__sectionPicture {
+    width: 250px;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 5px -5px 30px -8px #2B2B27;
+    margin: auto;
+    max-width: 400px;
+    display: block;
+}
