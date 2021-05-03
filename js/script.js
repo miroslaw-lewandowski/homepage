@@ -1,4 +1,9 @@
-console.log("Cześć!");
+function welcome() {
+    console.log("Cześć! Witam na mojej pierwszej stronie");
+}
+
+welcome();
+
 
 let removeHeader = document.querySelector(".js-removeHeader");
 let body__header = document.querySelector(".body__header");
