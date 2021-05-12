@@ -22,6 +22,10 @@ html {
     margin: auto;
 }
 
+.body__whiteBackground {
+    background-color: white;
+}
+
 .main__boatPoolPicture {
     width: 100%;
     border-style: solid;
